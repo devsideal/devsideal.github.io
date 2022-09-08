@@ -1,5 +1,5 @@
 {
-    "name": "first-web",
+    "name": "flutter_first_web",
     "short_name": "flutter_first_web",
     "start_url": ".",
     "display": "standalone",
