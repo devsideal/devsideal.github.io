@@ -1,0 +1,222 @@
+[
+  {
+    "avatar": "https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/CategoryImage/Veg.png",
+    "description": "Vegetarian",
+    "title": "Vegan",
+    "library": [
+      {
+        "deletedAt":null,
+        "description":"Chicken Momos is a type of steamed dumpling with some form of filling. Momo has become a traditional delicacy in Nepal. chicken momos recipe is good for diabetics, heart and weight loss.",
+        "isFeatures":true,
+        "slug":"Chicken-momos",
+        "sortDescription":"Chicken Momos is a type of steamed dumpling with some form of filling. Momo has become a traditional delicacy in Nepal.",
+        "status":"published",
+        "tag":[
+          "Non-vegetarian"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/NonVeg/CHICKENMOMOS.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/non-vegetarian/CHICKEMOMOS_Banner.png"
+          }
+        ],
+        "type":[
+          "video"
+        ],
+        "title":"Chicken momos"
+      },
+      {
+        "deletedAt":null,
+        "description":"Potato Cheese Balls are a crispy and crunchy snack with the melted cheese heaven inside. Combine cheese and cornflakes; sprinkle over potatoes. Bake at 350° for 50-60 minutes or until potatoes are tender. Sprinkle with additional chives if desired.",
+        "isFeatures":true,
+        "slug":"Crispy-potato-cheese-ball",
+        "sortDescription":"Potato Cheese Balls are a crispy and crunchy snack with the melted cheese heaven inside.",
+        "status":"published",
+        "tag":[
+          "Vegetarian"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Veg/POTATOCHEESEBALL.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/vegetarian/POTATOCHEESEBALL_Banner.png"
+          }
+        ],
+        "videoContent": {
+          "duration" : "120",
+          "outputUrl" : "https://d4layzaz9ldrt.cloudfront.net/FoodRecipe/Dessert/Pancakes.mp4"
+        },
+        "type":[
+          "video"
+        ],
+        "title":"Crispy potato cheese ball"
+      },
+      {
+        "deletedAt":null,
+        "description":"poha cutlet is basically an evening snack It consists of a mix of various steamed vegetables like carrots, potatoes, peas, chilly, onion, corn and more. I make these poha cutlet recipes often. Most of the time I have poha, carrots, potatoes, peas and chilly in the mix and fry in oil.",
+        "isFeatures":true,
+        "slug":"Poha-cutlet",
+        "sortDescription":"poha cutlet is basically an evening snack It consists of a mix of various steamed vegetables like carrots, potatoes, peas, chilly, onion, corn and more.",
+        "status":"published",
+        "tag":[
+          "Vegetarian"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Veg/PohaVegCutlet.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/vegetarian/PohaVeg Cutlet_Banner.png"
+          }
+        ],
+        "videoContent": {
+          "duration" : "120",
+          "outputUrl" : "https://d4layzaz9ldrt.cloudfront.net/FoodRecipe/Dessert/Pancakes.mp4"
+        },
+        "type":[
+          "video"
+        ],
+        "title":"Poha cutlet"
+      },
+      {
+        "deletedAt":null,
+        "description":"pancakes should be classified as a dessert. They contain all the same ingredients as regular cake, but because they’re made outside of the oven, somehow they get a pass. True, pancake batter contains less butter and sugar than oven cake batter, but the finished product is served to us slathered in butter.",
+        "isFeatures":true,
+        "slug":"Pancake",
+        "sortDescription":"pancakes should be classified as a dessert.",
+        "status":"published",
+        "tag":[
+          "Dessert"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Dessert/Pancakes.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/dessert/Pancakes_Banner.png"
+          }
+        ],
+        "videoContent": {
+          "duration" : "120",
+          "outputUrl" : "https://d4layzaz9ldrt.cloudfront.net/FoodRecipe/Dessert/Pancakes.mp4"
+        },
+        "type":[
+          "video"
+        ],
+        "title":"Pancake"
+      }
+    ]
+  },
+  {
+    "avatar": "https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/CategoryImage/Non%20-%20Veg.png",
+    "description": "Vegetarian",
+    "title": "Dessert",
+    "library": [
+      {
+        "deletedAt":null,
+        "description":"pancakes should be classified as a dessert. They contain all the same ingredients as regular cake, but because they’re made outside of the oven, somehow they get a pass. True, pancake batter contains less butter and sugar than oven cake batter, but the finished product is served to us slathered in butter.",
+        "isFeatures":true,
+        "slug":"Pancake",
+        "sortDescription":"pancakes should be classified as a dessert.",
+        "status":"published",
+        "tag":[
+          "Dessert"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Dessert/Pancakes.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/dessert/Pancakes_Banner.png"
+          }
+        ],
+        "videoContent": {
+          "duration" : "120",
+          "outputUrl" : "https://d4layzaz9ldrt.cloudfront.net/FoodRecipe/Dessert/Pancakes.mp4"
+        },
+        "type":[
+          "video"
+        ],
+        "title":"Pancake"
+      }
+    ]
+  },
+  {
+    "avatar": "https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/CategoryImage/Veg.png",
+    "description": "Vegetarian",
+    "title": "Non-veg",
+    "library": [
+      {
+        "deletedAt":null,
+        "description":"pancakes should be classified as a dessert. They contain all the same ingredients as regular cake, but because they’re made outside of the oven, somehow they get a pass. True, pancake batter contains less butter and sugar than oven cake batter, but the finished product is served to us slathered in butter.",
+        "isFeatures":true,
+        "slug":"Pancake",
+        "sortDescription":"pancakes should be classified as a dessert.",
+        "status":"published",
+        "tag":[
+          "Dessert"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Dessert/Pancakes.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/dessert/Pancakes_Banner.png"
+          }
+        ],
+        "videoContent": {
+          "duration" : "120",
+          "outputUrl" : "https://d4layzaz9ldrt.cloudfront.net/FoodRecipe/Dessert/Pancakes.mp4"
+        },
+        "type":[
+          "video"
+        ],
+        "title":"Pancake"
+      },
+      {
+        "deletedAt":null,
+        "description":"pancakes should be classified as a dessert. They contain all the same ingredients as regular cake, but because they’re made outside of the oven, somehow they get a pass. True, pancake batter contains less butter and sugar than oven cake batter, but the finished product is served to us slathered in butter.",
+        "isFeatures":true,
+        "slug":"Pancake",
+        "sortDescription":"pancakes should be classified as a dessert.",
+        "status":"published",
+        "tag":[
+          "Dessert"
+        ],
+        "thumbnails":[
+          {
+            "type":"portrait",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Dessert/Pancakes.png"
+          },
+          {
+            "type":"banner",
+            "url":"https://ddl3zxv7r1oki.cloudfront.net/FoodRecipe/Images/Banner2/dessert/Pancakes_Banner.png"
+          }
+        ],
+        "videoContent": {
+          "duration" : "120",
+          "outputUrl" : "https://d4layzaz9ldrt.cloudfront.net/FoodRecipe/Dessert/Pancakes.mp4"
+        },
+        "type":[
+          "video"
+        ],
+        "title":"Pancake"
+      }
+    ]
+  }
+]
